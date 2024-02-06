@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=80&duration=1000&pause=1000&color=00AA00&repeat=false&random=false&width=1500&height=100&lines=Hello%2C+Word+!+I'm+Osiris+!%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=80&duration=1000&pause=1000&color=00AA00&center=true&vCenter=true&repeat=false&random=false&width=2000&height=200&lines=Hello%2C+Word+!+I'm+Osiris+!%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&duration=1000&pause=1000&color=00AA00&center=true&vCenter=true&repeat=false&random=false&width=550&height=100&lines=Welcome+on+my+GitHub+page+!" alt="Typing SVG" /></a>
 </div>
 <hr>
 <p align="center">
