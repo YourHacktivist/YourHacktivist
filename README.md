@@ -1,4 +1,7 @@
-<h1 class="id" style="color: #0a0;" align="center">𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙾𝚜𝚒𝚛𝚒𝚜 !</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=80&duration=1000&pause=1000&color=00AA00&repeat=false&random=false&width=1500&height=100&lines=Hello%2C+Word+!+I'm+Osiris+!%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
+<hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg"/>
 </p>
