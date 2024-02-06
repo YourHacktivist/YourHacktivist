@@ -1,4 +1,4 @@
-<h1 class="id" color="#0a0" align="center">Hello there, I'm Osiris !</h1>
+<h1 class="id" style="color: #0a0;" align="center">𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙾𝚜𝚒𝚛𝚒𝚜 !</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg"/>
 </p>
