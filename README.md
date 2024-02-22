@@ -4,7 +4,7 @@
 </div>
 <hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&duration=3000&pause=1000&color=00AA00&center=true&vCenter=true&random=false&width=480&lines=Pentest+%26+Ethical+Hacker;Blockchain+%26+IoT+Security+Enthusiast;AI%2C+Steganography+%26+Modern+Cryptography;SEO%2C+Forensic+%26+OSINT+Investigator" alt="Typing SVG" /></a>
